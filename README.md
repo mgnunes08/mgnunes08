@@ -3,6 +3,7 @@
 ## 🎓 Education
 
 **B.Sc. in Information Systems at Universidade Federal Fluminense**
+
 Currently in my **1st year**, studying programming, calculus, discrete mathematics, and algorithms.
 
 ---
